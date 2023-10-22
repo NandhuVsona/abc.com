@@ -1,6 +1,6 @@
 //------------JavaScript-----------
 
-//import { card, saveToStorage } from "./Data/card.js";
+import { card, saveToStorage } from "./Data/card.js";
 let cardContainer = document.querySelector(".cards-container");
 let trendImg = document.querySelector(".trend-img");
 let nonVeg = document.querySelector(".non-veg");
