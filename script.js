@@ -567,4 +567,3 @@ setTimeout(() => {
   notify.style.display = "flex";
   login.style.transform = "scale(1)";
 }, 29100);
-import { card, saveToStorage } from "./Data/card.js";
